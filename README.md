@@ -2,6 +2,8 @@ This is the source code for the [Using CMake and managing dependencies](https://
 
 It shows how to setup a simple project which depends on SFML, Dear ImGui and ImGui-SFML.
 
+![image](https://user-images.githubusercontent.com/1285136/119359595-76e74280-bcb2-11eb-9ad5-1e69795e5696.png)
+
 # Building
 
 ```sh

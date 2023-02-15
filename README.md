@@ -1,4 +1,4 @@
-This is the source code for the [Using CMake and managing dependencies](https://eliasdaler.github.io/using-cmake/).
+This is the source code for the [Using CMake and managing dependencies](https://edw.is/using-cmake/).
 
 It shows how to setup a simple project which depends on SFML, Dear ImGui and ImGui-SFML.
 
